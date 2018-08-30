@@ -1,0 +1,25 @@
+{
+  "name": "callbackfy",
+  "version": "1.0.0",
+  "description": "module to get callback patter from a promises pattern",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cereceres/callbackfy.git"
+  },
+  "keywords": [
+    "callback",
+    "promises",
+    "pattern",
+    "flow"
+  ],
+  "author": "Jesus Cereceres",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Cereceres/callbackfy/issues"
+  },
+  "homepage": "https://github.com/Cereceres/callbackfy#readme"
+}
